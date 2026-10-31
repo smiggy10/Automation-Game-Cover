@@ -1,0 +1,12 @@
+era_rima-jobs-trash-bottle
+era_rima-jobs-trash-news
+era_rima-jobs-trash-paper
+era_rima-jobs-trash-tire
+era_rima-mushroom-plain
+era_rima-mushroom-purple
+era_rima-mushroom-red
+era_rima-mushroom-yellow
+era_rima-mushroom1-plain
+era_rima-mushroom1-purple
+era_rima-mushroom1-red
+era_rima-mushroom1-yellow
